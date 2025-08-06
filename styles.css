@@ -50,6 +50,7 @@ html{
     height: calc(100vh - 80px);
     background-image: url("images/programador.png");  
     background-size: 100%;  
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     padding-left: 10%;
