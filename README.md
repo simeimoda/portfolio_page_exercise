@@ -1,2 +1,5 @@
-# portfolio_page_exercise
-A simple landing page portfolio built with HTML and CSS to practice responsive design and Flexbox.
+# Personal Portfolio Landing Page
+
+## About
+This is my **first project**, a simple landing page portfolio built with **HTML** and **CSS** to practice web development fundamentals. It showcases my skills and serves as a starting point for my journey to become a **full-stack developer**.
+
